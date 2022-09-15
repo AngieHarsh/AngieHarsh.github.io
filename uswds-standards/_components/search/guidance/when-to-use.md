@@ -1,1 +1,0 @@
-- **Use site search.** There will always be users who would benefit from being able to search your site.

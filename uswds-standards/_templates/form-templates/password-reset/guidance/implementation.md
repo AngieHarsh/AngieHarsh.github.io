@@ -1,1 +1,0 @@
-- For guidance on the technical details of validation, see the [validation component documentation]({{ site.baseurl }}/components/validation).

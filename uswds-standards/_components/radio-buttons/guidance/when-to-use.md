@@ -1,1 +1,0 @@
-- **To display a single selection.** When users need to select only one option from a set of mutually exclusive choices.

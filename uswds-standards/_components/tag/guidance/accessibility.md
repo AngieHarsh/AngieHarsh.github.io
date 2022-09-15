@@ -1,1 +1,0 @@
-- **Use ARIA live regions to highlight dynamically loaded content.** When tags are used to call out new content that is dynamically loaded onto a page, be sure to use ARIA live regions to alert screen readers of the change.

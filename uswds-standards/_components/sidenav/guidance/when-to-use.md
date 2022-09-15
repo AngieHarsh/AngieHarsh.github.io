@@ -1,2 +1,0 @@
-- **To display a navigational hierarchy with one to three levels.**
-- **To display the “sub-navigation” within a section of the website.**

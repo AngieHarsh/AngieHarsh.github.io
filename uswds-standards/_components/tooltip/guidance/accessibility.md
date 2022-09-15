@@ -1,2 +1,0 @@
-- **Use as `title` attribute.** Tooltips are progressive enhancements for the `title` attribute, and will display as the `title` attribute if the component doesn’t initialize.
-- **Keyboard accessibility.** Tooltips make `title` attributes keyboard accessible.

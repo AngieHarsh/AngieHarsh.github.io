@@ -1,4 +1,0 @@
-- [Basic header]({{ site.baseurl }}/components/header)
-- [Grid]({{ site.baseurl }}/components/grid)
-- [Side navigation]({{ site.baseurl }}/components/side-navigation)
-- [Medium footer]({{ site.baseurl }}/components/footer)

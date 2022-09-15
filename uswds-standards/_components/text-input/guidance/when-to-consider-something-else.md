@@ -1,1 +1,0 @@
-- **Predetermined input options.** When users are choosing from a specific set of options.

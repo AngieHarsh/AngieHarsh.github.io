@@ -1,1 +1,0 @@
-- [USPS Publication 28](https://pe.usps.com/text/pub28/28c1_001.htm) defines the mailing standards in the United States.

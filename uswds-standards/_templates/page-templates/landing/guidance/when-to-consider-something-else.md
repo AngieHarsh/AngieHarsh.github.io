@@ -1,1 +1,0 @@
-- **Internal pages.** Don’t use a landing page for standard internal page content. The same things that help people understand basics quickly can become distracting for people who are looking for more depth.

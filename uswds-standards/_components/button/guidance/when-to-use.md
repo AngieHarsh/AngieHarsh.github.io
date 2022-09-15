@@ -1,1 +1,0 @@
-- **Important actions.** Use buttons for the most important actions you want users to take on your site, such as `Download`, `Sign up` or `Log out`.

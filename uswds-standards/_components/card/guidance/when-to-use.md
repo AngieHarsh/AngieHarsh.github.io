@@ -1,1 +1,0 @@
-- **Collections of related content.** Cards help present a collection of related groups of content, like articles or sections of a website.

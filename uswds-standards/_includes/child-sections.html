@@ -1,0 +1,8 @@
+{% assign children = site.components | where: 'parent', include.parent | sort: 'order' %}
+{% for child in children %}
+<h2 class="site-component-name" id="{% if child.id_custom %}{{ child.id_custom }}{% else %}{{ child.title | slugify }}{% endif %}">{{ child.title }}</h2>
+{% if child.lead != null %}
+  <p class="site-text-intro">{{ child.lead }}</p>
+{% endif %}
+{{ child.content }}
+{% endfor %}
